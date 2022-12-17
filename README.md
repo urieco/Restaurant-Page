@@ -1,1 +1,4 @@
-Goal: Render a simple restaurant homepage using mostly JavaScript. Practice using webpack
+# Restaurant-page
+
+Goal: Render a simple restaurant homepage using mostly JavaScript and practice using Webpack to 
+improve the workflow. 
